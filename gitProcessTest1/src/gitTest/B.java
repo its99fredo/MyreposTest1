@@ -5,5 +5,4 @@ public class B {
 		System.out.println("B class");
 		System.out.println("Hello World!");
 		}
-
 }
